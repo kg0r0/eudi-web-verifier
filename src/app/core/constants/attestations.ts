@@ -66,6 +66,7 @@ export const MDL_ATTESTATION: Attestation = {
     { identifier: 'portrait_capture_date', attribute: 'Portrait capture date'},
     { identifier: 'nationality', attribute: 'Nationality'},
     { identifier: 'resident_city', attribute: 'Resident city'},
+    { identifier: 'email', attribute: 'Email'},
     { identifier: 'resident_state', attribute: 'Resident state'},
     { identifier: 'resident_postal_code', attribute: 'Resident postal code'},
     { identifier: 'resident_country', attribute: 'Resident country'},
